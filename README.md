@@ -1,6 +1,6 @@
 - 👋 Hola, soy Walter Rementeria
 - 👀 Me fascina el desarrollo frontend 👨‍💻 
-- 🌱 Actualmente estoy ampliando las fronteras de mis conocimientos con React.JS ⚛
+- 🌱 Actualmente estoy ampliando las fronteras de mis conocimientos con Next.JS
 - 💞️ Estoy encantado de colaborar en cualquier proyecto que este a mi alcance.
 - 📫 Puedes encontrarme en:
    LinkedIn: https://www.linkedin.com/in/walter-rementeria
